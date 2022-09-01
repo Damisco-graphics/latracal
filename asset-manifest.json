@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/latracal/static/css/main.835846a3.css",
+    "main.js": "/latracal/static/js/main.447e4c26.js",
+    "index.html": "/latracal/index.html",
+    "main.835846a3.css.map": "/latracal/static/css/main.835846a3.css.map",
+    "main.447e4c26.js.map": "/latracal/static/js/main.447e4c26.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.835846a3.css",
+    "static/js/main.447e4c26.js"
+  ]
+}
